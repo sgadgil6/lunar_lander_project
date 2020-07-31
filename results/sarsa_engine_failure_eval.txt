@@ -1,0 +1,200 @@
+#It:  0  avg reward:  209.72188312313054  out of  1  trials
+Overall Performance:  209.72188312313054
+#It:  10  avg reward:  88.50546609597258  out of  10  trials
+Overall Performance:  149.11367460955157
+#It:  20  avg reward:  88.83527036883703  out of  10  trials
+Overall Performance:  129.02087319598004
+#It:  30  avg reward:  162.0902011870058  out of  10  trials
+Overall Performance:  137.28820519373647
+#It:  40  avg reward:  139.56081803723612  out of  10  trials
+Overall Performance:  137.7427277624364
+#It:  50  avg reward:  95.48851445547903  out of  10  trials
+Overall Performance:  130.7003588779435
+#It:  60  avg reward:  179.48659394411317  out of  10  trials
+Overall Performance:  137.66982103025344
+#It:  70  avg reward:  138.8433112357938  out of  10  trials
+Overall Performance:  137.816507305946
+#It:  80  avg reward:  72.76504947724462  out of  10  trials
+Overall Performance:  130.58856754720142
+#It:  90  avg reward:  154.4599814539988  out of  10  trials
+Overall Performance:  132.97570893788117
+#It:  100  avg reward:  111.99005873733036  out of  10  trials
+Overall Performance:  131.06792255601292
+#It:  110  avg reward:  83.27423746087649  out of  10  trials
+Overall Performance:  127.08511546475154
+#It:  120  avg reward:  63.45259873050909  out of  10  trials
+Overall Performance:  122.19030648519444
+#It:  130  avg reward:  142.44032098116924  out of  10  trials
+Overall Performance:  123.63673609204977
+#It:  140  avg reward:  177.47124799491502  out of  10  trials
+Overall Performance:  127.22570355224079
+#It:  150  avg reward:  72.70041657006723  out of  10  trials
+Overall Performance:  123.81787311585492
+#It:  160  avg reward:  161.29903435331596  out of  10  trials
+Overall Performance:  126.02264730629382
+#It:  170  avg reward:  142.72029264105927  out of  10  trials
+Overall Performance:  126.95029426933633
+#It:  180  avg reward:  87.13447097701594  out of  10  trials
+Overall Performance:  124.8547246223721
+#It:  190  avg reward:  173.35354813551294  out of  10  trials
+Overall Performance:  127.27966579802914
+#It:  200  avg reward:  147.45010424750677  out of  10  trials
+Overall Performance:  128.24016286705188
+#It:  210  avg reward:  137.34173682938723  out of  10  trials
+Overall Performance:  128.65387077443077
+#It:  220  avg reward:  89.03802999498775  out of  10  trials
+Overall Performance:  126.93144291445499
+#It:  230  avg reward:  78.0862219694846  out of  10  trials
+Overall Performance:  124.89622537508122
+#It:  240  avg reward:  74.71116490465265  out of  10  trials
+Overall Performance:  122.88882295626408
+#It:  250  avg reward:  118.1469911262679  out of  10  trials
+Overall Performance:  122.70644480895655
+#It:  260  avg reward:  139.71429703638918  out of  10  trials
+Overall Performance:  123.33636526182443
+#It:  270  avg reward:  54.80753463068885  out of  10  trials
+Overall Performance:  120.88890702499815
+#It:  280  avg reward:  123.09296733980725  out of  10  trials
+Overall Performance:  120.96490910481916
+#It:  290  avg reward:  106.22067214961892  out of  10  trials
+Overall Performance:  120.47343453964581
+#It:  300  avg reward:  160.22658495551005  out of  10  trials
+Overall Performance:  121.75579423048015
+#It:  310  avg reward:  141.29104361406695  out of  10  trials
+Overall Performance:  122.36627077371722
+#It:  320  avg reward:  111.08002607064691  out of  10  trials
+Overall Performance:  122.02426335847267
+#It:  330  avg reward:  89.96609790352896  out of  10  trials
+Overall Performance:  121.08137613920962
+#It:  340  avg reward:  150.2484309438912  out of  10  trials
+Overall Performance:  121.91472056220053
+#It:  350  avg reward:  128.96836373487187  out of  10  trials
+Overall Performance:  122.11065509477473
+#It:  360  avg reward:  119.96856696846666  out of  10  trials
+Overall Performance:  122.05276082109073
+#It:  370  avg reward:  44.43103429515353  out of  10  trials
+Overall Performance:  120.0100838072503
+#It:  380  avg reward:  57.925984311909716  out of  10  trials
+Overall Performance:  118.41818382019028
+#It:  390  avg reward:  147.76366230686787  out of  10  trials
+Overall Performance:  119.1518207823572
+#It:  400  avg reward:  141.75172480940827  out of  10  trials
+Overall Performance:  119.70303795374869
+#It:  410  avg reward:  64.37518941046446  out of  10  trials
+Overall Performance:  118.38570822652764
+#It:  420  avg reward:  73.116293480265  out of  10  trials
+Overall Performance:  117.33293113940526
+#It:  430  avg reward:  131.52467278911914  out of  10  trials
+Overall Performance:  117.6554707223533
+#It:  440  avg reward:  121.01269821215472  out of  10  trials
+Overall Performance:  117.73007577768222
+#It:  450  avg reward:  122.42565528436867  out of  10  trials
+Overall Performance:  117.83215359304496
+#It:  460  avg reward:  36.6299136024169  out of  10  trials
+Overall Performance:  116.10444635920183
+#It:  470  avg reward:  143.86063610569138  out of  10  trials
+Overall Performance:  116.68270031225366
+#It:  480  avg reward:  176.40644699672347  out of  10  trials
+Overall Performance:  117.90155228540611
+#It:  490  avg reward:  155.2211241075583  out of  10  trials
+Overall Performance:  118.64794372184915
+#It:  500  avg reward:  91.17470761433464  out of  10  trials
+Overall Performance:  118.10925281778024
+#It:  510  avg reward:  69.02039130964718  out of  10  trials
+Overall Performance:  117.16523625031616
+#It:  520  avg reward:  33.705524304525895  out of  10  trials
+Overall Performance:  115.59052470416917
+#It:  530  avg reward:  150.083993630326  out of  10  trials
+Overall Performance:  116.22929264724615
+#It:  540  avg reward:  80.11723113471496  out of  10  trials
+Overall Performance:  115.57270971065466
+#It:  550  avg reward:  73.42742606099068  out of  10  trials
+Overall Performance:  114.8201153597678
+#It:  560  avg reward:  171.8019504547306  out of  10  trials
+Overall Performance:  115.8197966772233
+#It:  570  avg reward:  132.98815829330775  out of  10  trials
+Overall Performance:  116.11580291198337
+#It:  580  avg reward:  95.86138498930477  out of  10  trials
+Overall Performance:  115.77250769295492
+#It:  590  avg reward:  102.87207518668951  out of  10  trials
+Overall Performance:  115.55750048451715
+#It:  600  avg reward:  87.34174425988645  out of  10  trials
+Overall Performance:  115.0949471037855
+#It:  610  avg reward:  156.44089362101994  out of  10  trials
+Overall Performance:  115.7618172089022
+#It:  620  avg reward:  65.51852385843452  out of  10  trials
+Overall Performance:  114.96430461603762
+#It:  630  avg reward:  134.05726962205836  out of  10  trials
+Overall Performance:  115.26263219425671
+#It:  640  avg reward:  108.08980607001065  out of  10  trials
+Overall Performance:  115.15228102311447
+#It:  650  avg reward:  92.58223955309435  out of  10  trials
+Overall Performance:  114.81031069781113
+#It:  660  avg reward:  194.72045791504038  out of  10  trials
+Overall Performance:  116.00299946224739
+#It:  670  avg reward:  155.10881613341598  out of  10  trials
+Overall Performance:  116.57808500152929
+#It:  680  avg reward:  180.02825352412702  out of  10  trials
+Overall Performance:  117.49765266127707
+#It:  690  avg reward:  115.8050419313175  out of  10  trials
+Overall Performance:  117.47347250799194
+#It:  700  avg reward:  169.3948229263149  out of  10  trials
+Overall Performance:  118.20475913360212
+#It:  710  avg reward:  99.43004519954118  out of  10  trials
+Overall Performance:  117.94399921785124
+#It:  720  avg reward:  139.84174050302448  out of  10  trials
+Overall Performance:  118.24396827655225
+#It:  730  avg reward:  138.81071481198262  out of  10  trials
+Overall Performance:  118.52189728378781
+#It:  740  avg reward:  91.25784378121793  out of  10  trials
+Overall Performance:  118.1583765704202
+#It:  750  avg reward:  149.8460965740957  out of  10  trials
+Overall Performance:  118.57532025467908
+#It:  760  avg reward:  136.29627096081634  out of  10  trials
+Overall Performance:  118.80546247164192
+#It:  770  avg reward:  53.78197462047196  out of  10  trials
+Overall Performance:  117.97182801201153
+#It:  780  avg reward:  62.06482910865252  out of  10  trials
+Overall Performance:  117.26414448158926
+#It:  790  avg reward:  129.8316976896168  out of  10  trials
+Overall Performance:  117.4212388966896
+#It:  800  avg reward:  87.3259019556891  out of  10  trials
+Overall Performance:  117.04969152704763
+#It:  810  avg reward:  107.96653807116141  out of  10  trials
+Overall Performance:  116.93892136295146
+#It:  820  avg reward:  96.72843527075052  out of  10  trials
+Overall Performance:  116.69542153051529
+#It:  830  avg reward:  161.04441573346716  out of  10  trials
+Overall Performance:  117.22338574721711
+#It:  840  avg reward:  153.54630235118407  out of  10  trials
+Overall Performance:  117.65071417785201
+#It:  850  avg reward:  130.85151134794904  out of  10  trials
+Overall Performance:  117.80421181936478
+#It:  860  avg reward:  110.60262780264443  out of  10  trials
+Overall Performance:  117.72143499158638
+#It:  870  avg reward:  48.21397582701782  out of  10  trials
+Overall Performance:  116.9315775010799
+#It:  880  avg reward:  153.28305696739162  out of  10  trials
+Overall Performance:  117.34002109058902
+#It:  890  avg reward:  58.80863559211541  out of  10  trials
+Overall Performance:  116.6896723628282
+#It:  900  avg reward:  87.14526140838365  out of  10  trials
+Overall Performance:  116.36500850618594
+#It:  910  avg reward:  95.19650335053484  out of  10  trials
+Overall Performance:  116.13491605884191
+#It:  920  avg reward:  69.2013465688935  out of  10  trials
+Overall Performance:  115.6302540213156
+#It:  930  avg reward:  93.7708647861112  out of  10  trials
+Overall Performance:  115.39770732732406
+#It:  940  avg reward:  141.36321586261286  out of  10  trials
+Overall Performance:  115.67102846980077
+#It:  950  avg reward:  118.30161474065895  out of  10  trials
+Overall Performance:  115.69843041012223
+#It:  960  avg reward:  104.39842202083746  out of  10  trials
+Overall Performance:  115.58193547827392
+#It:  970  avg reward:  102.84122388986262  out of  10  trials
+Overall Performance:  115.45192821716768
+#It:  980  avg reward:  139.32566773784237  out of  10  trials
+Overall Performance:  115.69307710121491
+#It:  990  avg reward:  143.7602144160635  out of  10  trials
+Overall Performance:  115.97374847436339

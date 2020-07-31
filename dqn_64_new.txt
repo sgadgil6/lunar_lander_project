@@ -1,0 +1,200 @@
+[1001] training loss: 0.689 training batch acc 0.421875
+0.5504587155963303
+[2001] training loss: 0.686 training batch acc 0.390625
+0.5458715596330275
+[3001] training loss: 0.659 training batch acc 0.640625
+0.7018348623853211
+[4001] training loss: 0.614 training batch acc 0.656250
+0.7477064220183486
+[5001] training loss: 0.598 training batch acc 0.750000
+0.7385321100917431
+[6001] training loss: 0.587 training batch acc 0.734375
+0.7660550458715596
+[7001] training loss: 0.584 training batch acc 0.703125
+0.7981651376146789
+[8001] training loss: 0.578 training batch acc 0.671875
+0.7752293577981652
+[9001] training loss: 0.567 training batch acc 0.765625
+0.7889908256880734
+[10001] training loss: 0.572 training batch acc 0.750000
+0.7844036697247706
+[11001] training loss: 0.567 training batch acc 0.734375
+0.7798165137614679
+[12001] training loss: 0.567 training batch acc 0.718750
+0.7798165137614679
+[13001] training loss: 0.562 training batch acc 0.734375
+0.7798165137614679
+[14001] training loss: 0.562 training batch acc 0.718750
+0.8119266055045872
+[15001] training loss: 0.561 training batch acc 0.734375
+0.7935779816513762
+[16001] training loss: 0.561 training batch acc 0.734375
+0.7706422018348624
+[17001] training loss: 0.560 training batch acc 0.734375
+0.7614678899082569
+[18001] training loss: 0.557 training batch acc 0.765625
+0.7752293577981652
+[19001] training loss: 0.565 training batch acc 0.718750
+0.7981651376146789
+[20001] training loss: 0.559 training batch acc 0.671875
+0.7844036697247706
+[21001] training loss: 0.559 training batch acc 0.671875
+0.8027522935779816
+[22001] training loss: 0.555 training batch acc 0.765625
+0.7660550458715596
+[23001] training loss: 0.558 training batch acc 0.734375
+0.7798165137614679
+[24001] training loss: 0.558 training batch acc 0.718750
+0.8119266055045872
+[25001] training loss: 0.553 training batch acc 0.687500
+0.7706422018348624
+[26001] training loss: 0.553 training batch acc 0.750000
+0.7477064220183486
+[27001] training loss: 0.556 training batch acc 0.781250
+0.7889908256880734
+[28001] training loss: 0.555 training batch acc 0.765625
+0.7706422018348624
+[29001] training loss: 0.554 training batch acc 0.781250
+0.7660550458715596
+[30001] training loss: 0.551 training batch acc 0.703125
+0.7752293577981652
+[31001] training loss: 0.554 training batch acc 0.687500
+0.8027522935779816
+[32001] training loss: 0.553 training batch acc 0.703125
+0.8027522935779816
+[33001] training loss: 0.552 training batch acc 0.718750
+0.7752293577981652
+[34001] training loss: 0.552 training batch acc 0.625000
+0.7752293577981652
+[35001] training loss: 0.552 training batch acc 0.703125
+0.7477064220183486
+[36001] training loss: 0.553 training batch acc 0.718750
+0.7660550458715596
+[37001] training loss: 0.550 training batch acc 0.796875
+0.7798165137614679
+[38001] training loss: 0.551 training batch acc 0.796875
+0.7522935779816514
+[39001] training loss: 0.548 training batch acc 0.718750
+0.7568807339449541
+[40001] training loss: 0.548 training batch acc 0.750000
+0.7798165137614679
+[41001] training loss: 0.548 training batch acc 0.750000
+0.7660550458715596
+[42001] training loss: 0.549 training batch acc 0.796875
+0.7752293577981652
+[43001] training loss: 0.551 training batch acc 0.593750
+0.7889908256880734
+[44001] training loss: 0.548 training batch acc 0.828125
+0.7889908256880734
+[45001] training loss: 0.548 training batch acc 0.828125
+0.7706422018348624
+[46001] training loss: 0.548 training batch acc 0.687500
+0.7935779816513762
+[47001] training loss: 0.540 training batch acc 0.718750
+0.7477064220183486
+[48001] training loss: 0.544 training batch acc 0.750000
+0.7706422018348624
+[49001] training loss: 0.543 training batch acc 0.703125
+0.7706422018348624
+[50001] training loss: 0.544 training batch acc 0.781250
+0.7660550458715596
+[51001] training loss: 0.548 training batch acc 0.593750
+0.7798165137614679
+[52001] training loss: 0.548 training batch acc 0.796875
+0.7935779816513762
+[53001] training loss: 0.544 training batch acc 0.687500
+0.7935779816513762
+[54001] training loss: 0.543 training batch acc 0.718750
+0.7844036697247706
+[55001] training loss: 0.544 training batch acc 0.796875
+0.7798165137614679
+[56001] training loss: 0.544 training batch acc 0.765625
+0.8119266055045872
+[57001] training loss: 0.542 training batch acc 0.765625
+0.7385321100917431
+[58001] training loss: 0.545 training batch acc 0.687500
+0.7844036697247706
+[59001] training loss: 0.543 training batch acc 0.687500
+0.7889908256880734
+[60001] training loss: 0.545 training batch acc 0.734375
+0.7798165137614679
+[61001] training loss: 0.544 training batch acc 0.750000
+0.7660550458715596
+[62001] training loss: 0.540 training batch acc 0.781250
+0.7660550458715596
+[63001] training loss: 0.544 training batch acc 0.718750
+0.7844036697247706
+[64001] training loss: 0.545 training batch acc 0.781250
+0.7614678899082569
+[65001] training loss: 0.544 training batch acc 0.625000
+0.7935779816513762
+[66001] training loss: 0.542 training batch acc 0.734375
+0.7844036697247706
+[67001] training loss: 0.542 training batch acc 0.765625
+0.7706422018348624
+[68001] training loss: 0.542 training batch acc 0.703125
+0.7752293577981652
+[69001] training loss: 0.541 training batch acc 0.656250
+0.7798165137614679
+[70001] training loss: 0.537 training batch acc 0.625000
+0.7844036697247706
+[71001] training loss: 0.542 training batch acc 0.875000
+0.7614678899082569
+[72001] training loss: 0.541 training batch acc 0.687500
+0.7798165137614679
+[73001] training loss: 0.541 training batch acc 0.640625
+0.7477064220183486
+[74001] training loss: 0.542 training batch acc 0.703125
+0.7752293577981652
+[75001] training loss: 0.544 training batch acc 0.656250
+0.7844036697247706
+[76001] training loss: 0.539 training batch acc 0.640625
+0.7660550458715596
+[77001] training loss: 0.539 training batch acc 0.718750
+0.8027522935779816
+[78001] training loss: 0.540 training batch acc 0.703125
+0.7935779816513762
+[79001] training loss: 0.542 training batch acc 0.687500
+0.8211009174311926
+[80001] training loss: 0.540 training batch acc 0.718750
+0.7981651376146789
+[81001] training loss: 0.541 training batch acc 0.734375
+0.7752293577981652
+[82001] training loss: 0.535 training batch acc 0.859375
+0.7706422018348624
+[83001] training loss: 0.542 training batch acc 0.843750
+0.8027522935779816
+[84001] training loss: 0.539 training batch acc 0.687500
+0.7660550458715596
+[85001] training loss: 0.538 training batch acc 0.750000
+0.7981651376146789
+[86001] training loss: 0.537 training batch acc 0.734375
+0.7798165137614679
+[87001] training loss: 0.536 training batch acc 0.625000
+0.7889908256880734
+[88001] training loss: 0.537 training batch acc 0.734375
+0.8119266055045872
+[89001] training loss: 0.538 training batch acc 0.718750
+0.7614678899082569
+[90001] training loss: 0.537 training batch acc 0.703125
+0.7798165137614679
+[91001] training loss: 0.539 training batch acc 0.750000
+0.7568807339449541
+[92001] training loss: 0.537 training batch acc 0.671875
+0.7660550458715596
+[93001] training loss: 0.537 training batch acc 0.687500
+0.7935779816513762
+[94001] training loss: 0.536 training batch acc 0.734375
+0.7798165137614679
+[95001] training loss: 0.537 training batch acc 0.687500
+0.7889908256880734
+[96001] training loss: 0.537 training batch acc 0.750000
+0.7752293577981652
+[97001] training loss: 0.538 training batch acc 0.609375
+0.8165137614678899
+[98001] training loss: 0.537 training batch acc 0.765625
+0.8027522935779816
+[99001] training loss: 0.537 training batch acc 0.781250
+0.7935779816513762
+[100001] training loss: 0.537 training batch acc 0.750000
+0.7706422018348624
